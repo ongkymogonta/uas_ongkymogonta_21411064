@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261676832362",
+    "project_id": "music-fb07c",
+    "storage_bucket": "music-fb07c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261676832362:android:5735854b67d7b471075c13",
+        "android_client_info": {
+          "package_name": "com.example.uas_mc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1EmMYRXaSyCsLdwau1U2WS66AOStcQgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
